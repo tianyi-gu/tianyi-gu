@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PhiIips%20Academy-%20Andover-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Science-ML%20%26%20AI-critical?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Wolfram%20TA-Research-red?style=for-the-badge&logo=wolfram" />
+  <img src="https://img.shields.io/badge/Wolfram%20-Research-red?style=for-the-badge&logo=wolfram" />
 </p>
 
 Building something cool...
