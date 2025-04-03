@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tianyi-gu&show_icons=true&theme=tokyonight&hide_border=true" width="47%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianyi-gu&layout=compact&theme=tokyonight&hide_border=true" width="47%" /> </p>
+
 <!--
 **tianyi-gu/tianyi-gu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
