@@ -5,7 +5,16 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Penn%20-2029-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Science-ML%20%26%20AI-critical?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Wolfram%20-Research-red?style=for-the-badge&logo=wolfram" />
 </p>
 
-Probably building something...
+some things I'm up to:
+- incoming research affiliate @ [wolfram institute](https://wolframinstitute.org/)
+- student researcher @ stanford statistics 4 social good
+- building something...
+
+previously:
+- swe @ [massenergize](https://www.massenergize.org/)
+- director @ [The Andover Computing Open (TACO)](https://www.andovercomputingopen.org/)
+- managing editor @ [The Phillipian](https://phillipian.net/)
+
+for more visit [my website](https://iamtianyi.com/)
