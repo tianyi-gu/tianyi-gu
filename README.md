@@ -15,6 +15,6 @@ some things I'm up to:
 previously:
 - swe @ [massenergize](https://www.massenergize.org/)
 - director @ [The Andover Computing Open (TACO)](https://www.andovercomputingopen.org/)
-- managing editor @ [The Phillipian](https://phillipian.net/)
+- managing editor @ [The Phillipian](https://phillipian.net/) (i launched an [app](https://apps.apple.com/us/app/phillipian/id6739430112)!)
 
-for more visit [my website](https://iamtianyi.com/)
+for more, visit [my website](https://iamtianyi.com/)
