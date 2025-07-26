@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Penn%20-2029-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Science-ML%20%26%20AI-critical?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Computer%20Science-ML%20%26%20AI-critical?style=for-the-badge" />
 </p>
 
 some things I'm up to:
