@@ -9,8 +9,8 @@
 
 some things I'm up to:
 - incoming research affiliate @ [wolfram institute](https://wolframinstitute.org/)
-- student researcher @ stanford statistics 4 social good
-- building something...
+- student researcher @ stanford
+- probably building...
 
 previously:
 - swe @ [massenergize](https://www.massenergize.org/)
