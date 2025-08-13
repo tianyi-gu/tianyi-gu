@@ -10,7 +10,7 @@
 some things I'm up to:
 - incoming research affiliate @ [wolfram institute](https://wolframinstitute.org/)
 - student researcher @ stanford
-- probably building...
+- building something new
 
 previously:
 - swe @ [massenergize](https://www.massenergize.org/)
