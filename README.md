@@ -8,7 +8,8 @@
 </p>
 
 some things I'm up to:
-- incoming research affiliate @ [wolfram institute](https://wolframinstitute.org/)
+- studying cs + math @ penn
+- research affiliate @ [wolfram institute](https://wolframinstitute.org/)
 - student researcher @ stanford
 - building something new
 
