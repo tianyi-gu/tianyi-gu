@@ -9,6 +9,7 @@
 
 some things I'm up to:
 - studying cs + math @ penn
+- product manager / team lead @ [hack4impact](https://github.com/hack4impact-upenn)
 - research affiliate @ [wolfram institute](https://wolframinstitute.org/)
 - student researcher @ stanford
 - building something new
