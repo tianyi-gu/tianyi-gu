@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/Computer%20Science-ML%20%26%20AI-critical?style=for-the-badge" />
 </p>
 
+<!-- ![](https://komarev.com/ghpvc/?username=tianyi-gu&color=blue) -->
+
 some things I'm up to:
 - studying cs + math @ penn
 - product manager / team lead @ [hack4impact](https://github.com/hack4impact-upenn)
