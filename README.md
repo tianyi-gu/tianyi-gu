@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Penn%20blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Penn%20-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Computer%20Science-ML%20%26%20AI-critical?style=for-the-badge" />
 </p>
 
