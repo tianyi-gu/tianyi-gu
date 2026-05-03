@@ -12,8 +12,8 @@
 some things I'm up to:
 - studying cs + math @ penn
 - product manager / team lead @ [hack4impact](https://github.com/hack4impact-upenn)
-- research affiliate @ [wolfram institute](https://wolframinstitute.org/)
-- student researcher @ stanford
+- research @ [wolfram institute](https://wolframinstitute.org/)
+- research @ stanford statistics
 - building something new
 
 previously:
