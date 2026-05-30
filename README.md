@@ -11,13 +11,12 @@
 
 some things I'm up to:
 - building asteria (yc s26)
+
+previously:
 - studying cs + math @ penn
 - product manager / team lead @ [hack4impact](https://github.com/hack4impact-upenn)
 - research @ [wolfram institute](https://wolframinstitute.org/)
 - research @ stanford statistics
-- building something new
-
-previously:
 - swe @ [massenergize](https://www.massenergize.org/)
 - director @ [The Andover Computing Open (TACO)](https://www.andovercomputingopen.org/)
 - managing editor @ [The Phillipian](https://phillipian.net/) (i launched an [app](https://apps.apple.com/us/app/phillipian/id6739430112)!)
