@@ -9,7 +9,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=tianyi-gu&color=blue) -->
 
-some things I'm up to:
+currently i'm:
 - building asteria (yc s26)
 
 previously:
