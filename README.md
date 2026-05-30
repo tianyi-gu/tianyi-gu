@@ -10,6 +10,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=tianyi-gu&color=blue) -->
 
 some things I'm up to:
+- building asteria (yc s26)
 - studying cs + math @ penn
 - product manager / team lead @ [hack4impact](https://github.com/hack4impact-upenn)
 - research @ [wolfram institute](https://wolframinstitute.org/)
