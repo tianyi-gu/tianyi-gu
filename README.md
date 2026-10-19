@@ -10,7 +10,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=tianyi-gu&color=blue) -->
 
 currently i'm:
-- building asteria (yc s26)
+- building confetti
 
 previously:
 - studying cs + math @ penn
