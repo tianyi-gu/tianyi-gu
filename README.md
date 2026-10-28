@@ -10,7 +10,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=tianyi-gu&color=blue) -->
 
 currently i'm:
-- building confetti
+- building [confetti](https://confetti.build/)
 
 previously:
 - studying cs + math @ penn
